@@ -8,7 +8,3 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS (USAR EST
 ```bash
 cd ./instalador  && sudo ./install_instancia
 ```
-
-
-bash
-sudo apt install -y git && git clone https://github.com/bufftop25/instalador-work2025 && sudo chmod -R 777 instalador  && cd instalador && sudo ./install_primaria
